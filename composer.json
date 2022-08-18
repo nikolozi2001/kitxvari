@@ -1,0 +1,14 @@
+{
+    "name": "nqachibaia/kitxvari",
+    "autoload": {
+        "psr-4": {
+            "src": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nika kachibaia"
+        }
+    ],
+    "require": {}
+}
